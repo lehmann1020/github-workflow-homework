@@ -11,3 +11,5 @@ jobs:
         run: echo "Hello from Github Action!"
       - name: Print another message
         run: echo "We are 2 legit 2 git"
+      - name: Shout out to dev branch
+        run: echo "Howdy dev"
